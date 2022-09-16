@@ -1,0 +1,3 @@
+[submodule "searcher-sponsored-tx"]
+	path = searcher-sponsored-tx
+	url = https://github.com/mteam88/searcher-sponsored-tx.git
