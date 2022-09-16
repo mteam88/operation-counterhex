@@ -1,3 +1,4 @@
 .env
 *.env
 searcher-sponsored-tx
+node_modules
