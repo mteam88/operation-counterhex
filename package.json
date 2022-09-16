@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@flashbots/searcher-sponsored-tx": "file:searcher-sponsored-tx"
+  }
+}
